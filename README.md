@@ -57,30 +57,23 @@
 
 <div align="center">
   <a href="https://github.com/AmericoEver">
-    <img src="https://streak-stats.demolab.com?user=AmericoEver&theme=tokyonight&border_radius=10&locale=pt_BR" alt="GitHub Streak Stats" width="850" />
+    <img src="https://streak-stats.demolab.com?user=AmericoEver&theme=tokyonight&border_radius=10&locale=pt_BR" alt="GitHub Streak Stats" width="840" />
   </a>
+  <p><em>💡 Dica: Para sincronizar os commits de repositórios privados da organização nas estatísticas, ative "Include private contributions" em Contribution Settings.</em></p>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/AmericoEver">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmericoEver&theme=tokyonight" alt="Profile Details" width="850" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="assets/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="850" />
+  <img src="assets/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="840" />
   <br/>
-  <p><em>🐍 Cobrinha de contribuições do GitHub sempre ativa!</em></p>
+  <p><em>🐍 Minha dedicação à alimentação da cobra do GitHub!</em></p>
 </div>
 
 ---
 
 <div align="right">
-  <h2>⚡ Inspiração do Dia</h2>
+  <h2>⚡ Frase Aleatória</h2>
   <a href="https://github.com/AmericoEver">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in" alt="Frase Dev" />
   </a>
