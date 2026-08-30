@@ -41,25 +41,10 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas Reais do GitHub
 
 <div align="center">
-  <a href="https://github.com/AmericoEver">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AmericoEver&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="GitHub Stats" height="175" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/AmericoEver">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmericoEver&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="175" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/AmericoEver">
-    <img src="https://streak-stats.demolab.com?user=AmericoEver&theme=tokyonight&border_radius=10&locale=pt_BR" alt="GitHub Streak Stats" width="840" />
-  </a>
-  <p><em>💡 Dica: Para sincronizar os commits de repositórios privados da organização nas estatísticas, ative "Include private contributions" em Contribution Settings.</em></p>
+  <img src="assets/stats-card.svg" alt="Estatísticas Oficiais de Américo Ever" width="840" />
 </div>
 
 <br/>
@@ -67,7 +52,7 @@
 <div align="center">
   <img src="assets/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="840" />
   <br/>
-  <p><em>🐍 Minha dedicação à alimentação da cobra do GitHub!</em></p>
+  <p><em>🐍 Jogo da cobrinha devorando as contribuições de 2026!</em></p>
 </div>
 
 ---
