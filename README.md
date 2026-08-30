@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,38&height=220&section=header&text=Am%C3%A9rico%20Ever&fontSize=52&fontColor=ffffff&animation=fadeIn&subtext=Software%20Engineer%20%7C%20Full%20Stack%20Developer&subfontSize=20&subfontColor=ff6e40" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,38&height=220&section=header&text=Am%C3%A9rico%20Mabunda&fontSize=50&fontColor=ffffff&animation=fadeIn&subtext=Engenheiro%20de%20IA%2C%20Software%20%26%20Automa%C3%A7%C3%A3o&subfontSize=20&subfontColor=38bdf8" width="100%"/>
 </div>
 
 <div align="right" id="user-content-top">
@@ -10,41 +10,42 @@
 <div align="left">
   <h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?color=ff6e40&size=26&center=false&vCenter=true&width=650&lines=Ol%C3%A1%2C+sou+Am%C3%A9rico+Ever!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Engenheiro+de+Software+%26+Full+Stack+Developer!+%F0%9F%9A%80;Desenvolvendo+solu%C3%A7%C3%B5es+inovadoras+e+escal%C3%A1veis!;Explore+meus+reposit%C3%B3rios+e+contribua+%C3%A0+vontade!+%E2%9C%A8" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?color=38bdf8&size=25&center=false&vCenter=true&width=700&lines=Ol%C3%A1%2C+sou+Am%C3%A9rico+Mabunda+(Am%C3%A9rico+Ever)!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Engenheiro+de+IA%2C+Software+%26+Automa%C3%A7%C3%A3o+%F0%9F%A4%96%E2%9A%A1;Python%2C+Node.js%2C+PHP%2C+Java%2C+Docker+%26+Cloud+%F0%9F%9A%80;Transformando+processos+em+solu%C3%A7%C3%B5es+digitais+escal%C3%A1veis!+%E2%9C%A8" alt="Typing SVG" />
     </a>
   </h1>
 </div>
 
 <div align="right">
-  <a href="https://github.com/AmericoEver"><img src="https://komarev.com/ghpvc/?username=AmericoEver&color=ff6e40&style=flat-square&label=VISITANTES" alt="Visitantes"/></a>
+  <a href="https://github.com/AmericoEver"><img src="https://komarev.com/ghpvc/?username=AmericoEver&color=38bdf8&style=flat-square&label=VISITANTES" alt="Visitantes"/></a>
   <a href="https://github.com/AmericoEver?tab=followers"><img src="https://img.shields.io/github/followers/AmericoEver?label=Seguidores&style=social" alt="Seguidores"/></a>
   <a href="https://github.com/AmericoEver?tab=stars"><img src="https://img.shields.io/github/stars/AmericoEver?style=social" alt="Estrelas"/></a>
 </div>
 
 <p>
-  👋 Olá! Sou um <strong>Engenheiro de Software & Desenvolvedor Full Stack</strong> apaixonado por criar arquiteturas robustas, interfaces modernas e experiências digitais intuitivas. Aqui você encontrará meus projetos, experimentos práticos e soluções de ponta a ponta. 
+  👋 Olá! Sou <strong>Engenheiro Informático</strong> com sólida experiência no ciclo completo de desenvolvimento de sistemas (Fullstack) e automação de infraestruturas críticas. Especialista em resolver problemas complexos de negócios através de <strong>IA Generativa, Python, Node.js e PHP (Laravel)</strong>.
 </p>
 
-- 🔭 Atualmente desenvolvendo aplicações web escaláveis, sistemas de gestão e plataformas LMS (EdTech).
-- 🌱 Constantemente aprimorando conhecimentos em arquitetura limpa (MVC), segurança da informação e performance web.
-- 💬 Vamos conversar sobre desenvolvimento de software, arquitetura de sistemas e novas tecnologias!
+- 🤖 **Engenharia de IA & Automação**: Integração de IA no ciclo de desenvolvimento, agentes autônomos e automação de processos corporativos.
+- 🏢 **Sistemas Corporativos**: Arquitetura e desenvolvimento de ecossistemas ERP, Microsserviços e Plataformas LMS.
+- 🔒 **Infraestrutura & Cibersegurança**: Servidores Linux, Docker, Governança de TI (ITIL/Scrum) e Redes certificadas Huawei.
+- 🎓 **Formação**: Licenciado em Engenharia Informática | Huawei ICT Academy Certified.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias & Stack de Engenharia
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows,git,github,vscode,java,php,py,c,js,typescript,html,css,tailwindcss,bootstrap,laravel,mysql,postgres,sqlite,docker,postman,figma&theme=dark&perline=11" alt="Minhas Habilidades" />
+    <img src="https://skillicons.dev/icons?i=py,nodejs,express,php,laravel,java,cpp,js,ts,html,css,tailwind,bootstrap,mysql,postgres,mongodb,sqlite,docker,linux,ubuntu,git,github,postman,figma&theme=dark&perline=12" alt="Stack Tecnológico" />
   </a>
 </div>
 
 ---
 
-## 📊 Estatísticas Reais do GitHub
+## 📊 Estatísticas Reais & Atividade GitHub
 
 <div align="center">
-  <img src="assets/stats-card.svg" alt="Estatísticas Oficiais de Américo Ever" width="840" />
+  <img src="assets/stats-card.svg" alt="Estatísticas Oficiais de Américo Mabunda" width="840" />
 </div>
 
 <br/>
@@ -52,13 +53,13 @@
 <div align="center">
   <img src="assets/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="840" />
   <br/>
-  <p><em>🐍 Jogo da cobrinha devorando as contribuições de 2026!</em></p>
+  <p><em>🐍 Jogo da cobrinha percorrendo as contribuições ativas no GitHub!</em></p>
 </div>
 
 ---
 
 <div align="right">
-  <h2>⚡ Frase Aleatória</h2>
+  <h2>⚡ Frase Dev</h2>
   <a href="https://github.com/AmericoEver">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in" alt="Frase Dev" />
   </a>
@@ -73,12 +74,12 @@
     <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="mailto:americo.jorge.mabunda@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-americo.jorge.mabunda%40gmail.com-38bdf8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:contato@americoever.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-ff6e40?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://wa.me/258875834490" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B258_87_583_4490-22c55e?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </div>
 
