@@ -16,7 +16,7 @@
 </div>
 
 <div align="right">
-  <a href="https://github.com/AmericoEver"><img src="https://hits.sh/github.com/AmericoEver.svg?style=flat-square&label=Visitantes&color=ff6e40&labelColor=0f172a" alt="Visitantes"/></a>
+  <a href="https://github.com/AmericoEver"><img src="https://komarev.com/ghpvc/?username=AmericoEver&color=ff6e40&style=flat-square&label=VISITANTES" alt="Visitantes"/></a>
   <a href="https://github.com/AmericoEver?tab=followers"><img src="https://img.shields.io/github/followers/AmericoEver?label=Seguidores&style=social" alt="Seguidores"/></a>
   <a href="https://github.com/AmericoEver?tab=stars"><img src="https://img.shields.io/github/stars/AmericoEver?style=social" alt="Estrelas"/></a>
 </div>
@@ -45,37 +45,36 @@
 
 <div align="center">
   <a href="https://github.com/AmericoEver">
-    <img src="https://github-readme-stats.vercel.app/api?username=AmericoEver&show_icons=true&hide_title=false&count_private=true&theme=tokyonight&border_radius=10&card_width=450" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AmericoEver&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="GitHub Stats" height="175" />
   </a>
+  &nbsp;
   <a href="https://github.com/AmericoEver">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmericoEver&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&card_width=350" alt="Top Languages" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/AmericoEver">
-    <img src="https://streak-stats.demolab.com?user=AmericoEver&theme=tokyonight&border_radius=10&locale=pt_BR&card_width=800" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmericoEver&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="175" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmericoEver/AmericoEver/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmericoEver/AmericoEver/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AmericoEver/AmericoEver/output/github-contribution-grid-snake.svg">
-  </picture>
-  <br/>
-  <p><em>🐍 Cobrinha de contribuições do GitHub sempre ativa!</em></p>
+  <a href="https://github.com/AmericoEver">
+    <img src="https://streak-stats.demolab.com?user=AmericoEver&theme=tokyonight&border_radius=10&locale=pt_BR" alt="GitHub Streak Stats" width="850" />
+  </a>
 </div>
 
----
-
-## 🏆 Troféus GitHub
+<br/>
 
 <div align="center">
   <a href="https://github.com/AmericoEver">
-    <img src="https://github-profile-trophy.vercel.app/?username=AmericoEver&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="Troféus GitHub" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmericoEver&theme=tokyonight" alt="Profile Details" width="850" />
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="assets/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="850" />
+  <br/>
+  <p><em>🐍 Cobrinha de contribuições do GitHub sempre ativa!</em></p>
 </div>
 
 ---
