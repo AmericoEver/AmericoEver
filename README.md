@@ -45,15 +45,19 @@
 ## 📊 Estatísticas Reais & Atividade GitHub
 
 <div align="center">
-  <img src="assets/stats-card.svg" alt="Estatísticas Oficiais de Américo Mabunda" width="840" />
+  <img src="assets/stats-card.svg" alt="Estatísticas Oficiais de Américo Mabunda" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="assets/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="840" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="assets/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
   <br/>
-  <p><em>🐍 Jogo da cobrinha percorrendo as contribuições ativas no GitHub!</em></p>
+  <p><em>🐍 Jogo da cobrinha oficial devorando as contribuições de 2026!</em></p>
 </div>
 
 ---
