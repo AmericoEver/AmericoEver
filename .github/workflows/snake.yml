@@ -11,14 +11,22 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: AmericoEver
           outputs: |
             assets/github-contribution-grid-snake.svg
             assets/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: EndBug/add-and-commit@v9
+
+      - name: Commit and Push
+        uses: EndBug/add-and-commit@v9
         with:
           message: 'chore: update contribution snake'
           add: 'assets/*.svg'
