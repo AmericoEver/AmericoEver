@@ -45,9 +45,13 @@
 <br/>
 
 <div align="center">
-  <img src="assets/snake-dark.svg" alt="Snake animation" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmericoEver/AmericoEver/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmericoEver/AmericoEver/output/snake.svg">
+    <img src="https://raw.githubusercontent.com/AmericoEver/AmericoEver/output/snake-dark.svg" alt="Snake animation" width="100%" />
+  </picture>
   <br/>
-  <p><em>🐍 Jogo da cobrinha oficial devorando todo o histórico de contribuições!</em></p>
+  <p><em>🐍 Jogo da cobrinha oficial devorando as 1.223+ contribuições em tempo real!</em></p>
 </div>
 
 ---
