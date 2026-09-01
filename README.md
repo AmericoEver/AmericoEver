@@ -45,9 +45,9 @@
 <br/>
 
 <div align="center">
-  <img src="assets/snake-dark.svg" alt="Snake animation" width="100%" />
+  <img src="assets/snake-game.svg" alt="Snake animation" width="100%" />
   <br/>
-  <p><em>🐍 Jogo da cobrinha oficial devorando as 1.224+ contribuições em tempo real!</em></p>
+  <p><em>🐍 Jogo da cobrinha em ação devorando o tabuleiro de 52 semanas em tempo real!</em></p>
 </div>
 
 ---
