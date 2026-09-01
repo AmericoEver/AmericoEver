@@ -42,7 +42,19 @@
 
 ---
 
-## 📊 Estatísticas Reais & Atividade GitHub
+## 📊 Estatísticas Oficiais & Atividade GitHub
+
+<div align="center">
+  <a href="https://github.com/AmericoEver">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AmericoEver&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats" height="190" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/AmericoEver">
+    <img src="https://streak-stats.demolab.com?user=AmericoEver&theme=tokyonight&border_radius=10&locale=pt_BR" alt="GitHub Streak Stats" height="190" />
+  </a>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="assets/stats-card.svg" alt="Estatísticas Oficiais de Américo Mabunda" width="100%" />
@@ -57,7 +69,7 @@
     <img src="https://raw.githubusercontent.com/AmericoEver/AmericoEver/output/snake.svg" alt="Snake animation" width="100%" />
   </picture>
   <br/>
-  <p><em>🐍 Jogo da cobrinha oficial devorando as contribuições de 2026!</em></p>
+  <p><em>🐍 Jogo da cobrinha oficial devorando as contribuições de 2026 em tempo real!</em></p>
 </div>
 
 ---
