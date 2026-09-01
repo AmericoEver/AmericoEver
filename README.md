@@ -52,9 +52,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="assets/github-contribution-grid-snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmericoEver/AmericoEver/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmericoEver/AmericoEver/output/snake.svg">
+    <img src="https://raw.githubusercontent.com/AmericoEver/AmericoEver/output/snake.svg" alt="Snake animation" width="100%" />
   </picture>
   <br/>
   <p><em>🐍 Jogo da cobrinha oficial devorando as contribuições de 2026!</em></p>
