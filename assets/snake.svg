@@ -1,0 +1,466 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 896 190" width="100%" height="190">
+<defs>
+
+      <linearGradient id="snkHead" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#c084fc" />
+        <stop offset="100%" stop-color="#9333ea" />
+      </linearGradient>
+      <linearGradient id="snkBody" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#a855f7" />
+        <stop offset="100%" stop-color="#7e22ce" />
+      </linearGradient>
+      <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#0b0f19" />
+        <stop offset="100%" stop-color="#070a12" />
+      </linearGradient>
+      <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.3"/>
+        <stop offset="50%" stop-color="#818cf8" stop-opacity="0.1"/>
+        <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.3"/>
+      </linearGradient>
+    
+
+      <style>
+        .card-bg { fill: url(#bgGrad); stroke: url(#borderGrad); stroke-width: 1.2px; rx: 12px; }
+        .cell { width: 11px; height: 11px; rx: 2.5px; ry: 2.5px; }
+        .l0 { fill: #161b22; }
+        .l1 { fill: #0e4429; }
+        .l2 { fill: #006d32; }
+        .l3 { fill: #26a641; }
+        .l4 { fill: #39d353; }
+        .bonus-food { fill: #ff7b72; filter: drop-shadow(0 0 4px #ff7b72); }
+
+        @keyframes slitherBoard {
+          0%   { transform: translate(24px, 24px); }
+          10%  { transform: translate(184px, 24px); }
+          20%  { transform: translate(184px, 88px); }
+          30%  { transform: translate(376px, 88px); }
+          40%  { transform: translate(376px, 24px); }
+          50%  { transform: translate(568px, 24px); }
+          60%  { transform: translate(568px, 104px); }
+          70%  { transform: translate(760px, 104px); }
+          80%  { transform: translate(760px, 40px); }
+          90%  { transform: translate(840px, 40px); }
+          95%  { transform: translate(840px, 104px); }
+          100% { transform: translate(24px, 24px); }
+        }
+
+        @keyframes pulseBonus {
+          0%, 100% { transform: scale(1); opacity: 0.9; }
+          50% { transform: scale(1.35); opacity: 1; }
+        }
+      </style>
+    
+</defs>
+<rect x="2" y="2" width="892" height="186" class="card-bg" />
+<g transform="translate(24, 24)">
+  <rect x="0" y="0" class="cell l2" />
+  <rect x="0" y="16" class="cell l0" />
+  <rect x="0" y="32" class="cell l1" />
+  <rect x="0" y="48" class="cell l1" />
+  <rect x="0" y="64" class="cell l3" />
+  <rect x="0" y="80" class="cell l2" />
+  <rect x="0" y="96" class="cell l3" />
+  <rect x="16" y="0" class="cell l0" />
+  <rect x="16" y="16" class="cell l1" />
+  <rect x="16" y="32" class="cell l0" />
+  <rect x="16" y="48" class="cell l1" />
+  <rect x="16" y="64" class="cell l2" />
+  <rect x="16" y="80" class="cell l0" />
+  <rect x="16" y="96" class="cell l0" />
+  <rect x="32" y="0" class="cell l2" />
+  <rect x="32" y="16" class="cell l2" />
+  <rect x="32" y="32" class="cell l1" />
+  <rect x="32" y="48" class="cell l2" />
+  <rect x="32" y="64" class="cell l3" />
+  <rect x="32" y="80" class="cell l0" />
+  <rect x="32" y="96" class="cell l3" />
+  <rect x="48" y="0" class="cell l2" />
+  <rect x="48" y="16" class="cell l1" />
+  <rect x="48" y="32" class="cell l0" />
+  <rect x="48" y="48" class="cell l4" />
+  <rect x="48" y="64" class="cell l1" />
+  <rect x="48" y="80" class="cell l0" />
+  <rect x="48" y="96" class="cell l0" />
+  <rect x="64" y="0" class="cell l3" />
+  <rect x="64" y="16" class="cell l2" />
+  <rect x="64" y="32" class="cell l3" />
+  <rect x="64" y="48" class="cell l3" />
+  <rect x="64" y="64" class="cell l2" />
+  <rect x="64" y="80" class="cell l4" />
+  <rect x="64" y="96" class="cell l1" />
+  <rect x="80" y="0" class="cell l2" />
+  <rect x="80" y="16" class="cell l3" />
+  <rect x="80" y="32" class="cell l2" />
+  <rect x="80" y="48" class="cell l3" />
+  <rect x="80" y="64" class="cell l2" />
+  <rect x="80" y="80" class="cell l3" />
+  <rect x="80" y="96" class="cell l0" />
+  <rect x="96" y="0" class="cell l1" />
+  <rect x="96" y="16" class="cell l1" />
+  <rect x="96" y="32" class="cell l0" />
+  <rect x="96" y="48" class="cell l1" />
+  <rect x="96" y="64" class="cell l0" />
+  <rect x="96" y="80" class="cell l1" />
+  <rect x="96" y="96" class="cell l2" />
+  <rect x="112" y="0" class="cell l1" />
+  <rect x="112" y="16" class="cell l1" />
+  <rect x="112" y="32" class="cell l1" />
+  <rect x="112" y="48" class="cell l1" />
+  <rect x="112" y="64" class="cell l4" />
+  <rect x="112" y="80" class="cell l2" />
+  <rect x="112" y="96" class="cell l2" />
+  <rect x="128" y="0" class="cell l0" />
+  <rect x="128" y="16" class="cell l3" />
+  <rect x="128" y="32" class="cell l0" />
+  <rect x="128" y="48" class="cell l1" />
+  <rect x="128" y="64" class="cell l4" />
+  <rect x="128" y="80" class="cell l2" />
+  <rect x="128" y="96" class="cell l2" />
+  <rect x="144" y="0" class="cell l2" />
+  <rect x="144" y="16" class="cell l3" />
+  <rect x="144" y="32" class="cell l3" />
+  <rect x="144" y="48" class="cell l1" />
+  <rect x="144" y="64" class="cell l0" />
+  <rect x="144" y="80" class="cell l1" />
+  <rect x="144" y="96" class="cell l1" />
+  <rect x="160" y="0" class="cell l1" />
+  <rect x="160" y="16" class="cell l4" />
+  <rect x="160" y="32" class="cell l3" />
+  <rect x="160" y="48" class="cell l1" />
+  <rect x="160" y="64" class="cell l2" />
+  <rect x="160" y="80" class="cell l1" />
+  <rect x="160" y="96" class="cell l4" />
+  <rect x="176" y="0" class="cell l2" />
+  <rect x="176" y="16" class="cell l1" />
+  <rect x="176" y="32" class="cell l1" />
+  <rect x="176" y="48" class="cell l2" />
+  <rect x="176" y="64" class="cell l1" />
+  <rect x="176" y="80" class="cell l2" />
+  <rect x="176" y="96" class="cell l3" />
+  <rect x="192" y="0" class="cell l1" />
+  <rect x="192" y="16" class="cell l1" />
+  <rect x="192" y="32" class="cell l4" />
+  <rect x="192" y="48" class="cell l2" />
+  <rect x="192" y="64" class="cell l0" />
+  <rect x="192" y="80" class="cell l0" />
+  <rect x="192" y="96" class="cell l0" />
+  <rect x="208" y="0" class="cell l2" />
+  <rect x="208" y="16" class="cell l3" />
+  <rect x="208" y="32" class="cell l1" />
+  <rect x="208" y="48" class="cell l0" />
+  <rect x="208" y="64" class="cell l1" />
+  <rect x="208" y="80" class="cell l4" />
+  <rect x="208" y="96" class="cell l2" />
+  <rect x="224" y="0" class="cell l4" />
+  <rect x="224" y="16" class="cell l3" />
+  <rect x="224" y="32" class="cell l0" />
+  <rect x="224" y="48" class="cell l3" />
+  <rect x="224" y="64" class="cell l2" />
+  <rect x="224" y="80" class="cell l2" />
+  <rect x="224" y="96" class="cell l1" />
+  <rect x="240" y="0" class="cell l2" />
+  <rect x="240" y="16" class="cell l0" />
+  <rect x="240" y="32" class="cell l1" />
+  <rect x="240" y="48" class="cell l2" />
+  <rect x="240" y="64" class="cell l4" />
+  <rect x="240" y="80" class="cell l3" />
+  <rect x="240" y="96" class="cell l1" />
+  <rect x="256" y="0" class="cell l2" />
+  <rect x="256" y="16" class="cell l0" />
+  <rect x="256" y="32" class="cell l4" />
+  <rect x="256" y="48" class="cell l3" />
+  <rect x="256" y="64" class="cell l1" />
+  <rect x="256" y="80" class="cell l2" />
+  <rect x="256" y="96" class="cell l2" />
+  <rect x="272" y="0" class="cell l0" />
+  <rect x="272" y="16" class="cell l3" />
+  <rect x="272" y="32" class="cell l2" />
+  <rect x="272" y="48" class="cell l3" />
+  <rect x="272" y="64" class="cell l2" />
+  <rect x="272" y="80" class="cell l0" />
+  <rect x="272" y="96" class="cell l1" />
+  <rect x="288" y="0" class="cell l0" />
+  <rect x="288" y="16" class="cell l4" />
+  <rect x="288" y="32" class="cell l3" />
+  <rect x="288" y="48" class="cell l3" />
+  <rect x="288" y="64" class="cell l1" />
+  <rect x="288" y="80" class="cell l0" />
+  <rect x="288" y="96" class="cell l3" />
+  <rect x="304" y="0" class="cell l4" />
+  <rect x="304" y="16" class="cell l0" />
+  <rect x="304" y="32" class="cell l2" />
+  <rect x="304" y="48" class="cell l0" />
+  <rect x="304" y="64" class="cell l3" />
+  <rect x="304" y="80" class="cell l3" />
+  <rect x="304" y="96" class="cell l0" />
+  <rect x="320" y="0" class="cell l2" />
+  <rect x="320" y="16" class="cell l2" />
+  <rect x="320" y="32" class="cell l1" />
+  <rect x="320" y="48" class="cell l3" />
+  <rect x="320" y="64" class="cell l1" />
+  <rect x="320" y="80" class="cell l1" />
+  <rect x="320" y="96" class="cell l2" />
+  <rect x="336" y="0" class="cell l3" />
+  <rect x="336" y="16" class="cell l1" />
+  <rect x="336" y="32" class="cell l1" />
+  <rect x="336" y="48" class="cell l4" />
+  <rect x="336" y="64" class="cell l2" />
+  <rect x="336" y="80" class="cell l1" />
+  <rect x="336" y="96" class="cell l2" />
+  <rect x="352" y="0" class="cell l0" />
+  <rect x="352" y="16" class="cell l1" />
+  <rect x="352" y="32" class="cell l1" />
+  <rect x="352" y="48" class="cell l2" />
+  <rect x="352" y="64" class="cell l1" />
+  <rect x="352" y="80" class="cell l1" />
+  <rect x="352" y="96" class="cell l0" />
+  <rect x="368" y="0" class="cell l2" />
+  <rect x="368" y="16" class="cell l1" />
+  <rect x="368" y="32" class="cell l4" />
+  <rect x="368" y="48" class="cell l3" />
+  <rect x="368" y="64" class="cell l0" />
+  <rect x="368" y="80" class="cell l1" />
+  <rect x="368" y="96" class="cell l2" />
+  <rect x="384" y="0" class="cell l1" />
+  <rect x="384" y="16" class="cell l0" />
+  <rect x="384" y="32" class="cell l4" />
+  <rect x="384" y="48" class="cell l2" />
+  <rect x="384" y="64" class="cell l2" />
+  <rect x="384" y="80" class="cell l3" />
+  <rect x="384" y="96" class="cell l3" />
+  <rect x="400" y="0" class="cell l0" />
+  <rect x="400" y="16" class="cell l0" />
+  <rect x="400" y="32" class="cell l1" />
+  <rect x="400" y="48" class="cell l1" />
+  <rect x="400" y="64" class="cell l2" />
+  <rect x="400" y="80" class="cell l3" />
+  <rect x="400" y="96" class="cell l2" />
+  <rect x="416" y="0" class="cell l4" />
+  <rect x="416" y="16" class="cell l0" />
+  <rect x="416" y="32" class="cell l1" />
+  <rect x="416" y="48" class="cell l1" />
+  <rect x="416" y="64" class="cell l3" />
+  <rect x="416" y="80" class="cell l1" />
+  <rect x="416" y="96" class="cell l0" />
+  <rect x="432" y="0" class="cell l1" />
+  <rect x="432" y="16" class="cell l1" />
+  <rect x="432" y="32" class="cell l1" />
+  <rect x="432" y="48" class="cell l1" />
+  <rect x="432" y="64" class="cell l4" />
+  <rect x="432" y="80" class="cell l1" />
+  <rect x="432" y="96" class="cell l3" />
+  <rect x="448" y="0" class="cell l2" />
+  <rect x="448" y="16" class="cell l0" />
+  <rect x="448" y="32" class="cell l4" />
+  <rect x="448" y="48" class="cell l3" />
+  <rect x="448" y="64" class="cell l4" />
+  <rect x="448" y="80" class="cell l4" />
+  <rect x="448" y="96" class="cell l3" />
+  <rect x="464" y="0" class="cell l0" />
+  <rect x="464" y="16" class="cell l2" />
+  <rect x="464" y="32" class="cell l1" />
+  <rect x="464" y="48" class="cell l1" />
+  <rect x="464" y="64" class="cell l0" />
+  <rect x="464" y="80" class="cell l1" />
+  <rect x="464" y="96" class="cell l4" />
+  <rect x="480" y="0" class="cell l1" />
+  <rect x="480" y="16" class="cell l3" />
+  <rect x="480" y="32" class="cell l2" />
+  <rect x="480" y="48" class="cell l1" />
+  <rect x="480" y="64" class="cell l4" />
+  <rect x="480" y="80" class="cell l4" />
+  <rect x="480" y="96" class="cell l2" />
+  <rect x="496" y="0" class="cell l3" />
+  <rect x="496" y="16" class="cell l0" />
+  <rect x="496" y="32" class="cell l1" />
+  <rect x="496" y="48" class="cell l4" />
+  <rect x="496" y="64" class="cell l2" />
+  <rect x="496" y="80" class="cell l2" />
+  <rect x="496" y="96" class="cell l3" />
+  <rect x="512" y="0" class="cell l0" />
+  <rect x="512" y="16" class="cell l2" />
+  <rect x="512" y="32" class="cell l2" />
+  <rect x="512" y="48" class="cell l3" />
+  <rect x="512" y="64" class="cell l0" />
+  <rect x="512" y="80" class="cell l4" />
+  <rect x="512" y="96" class="cell l0" />
+  <rect x="528" y="0" class="cell l0" />
+  <rect x="528" y="16" class="cell l2" />
+  <rect x="528" y="32" class="cell l2" />
+  <rect x="528" y="48" class="cell l1" />
+  <rect x="528" y="64" class="cell l0" />
+  <rect x="528" y="80" class="cell l3" />
+  <rect x="528" y="96" class="cell l1" />
+  <rect x="544" y="0" class="cell l2" />
+  <rect x="544" y="16" class="cell l2" />
+  <rect x="544" y="32" class="cell l1" />
+  <rect x="544" y="48" class="cell l2" />
+  <rect x="544" y="64" class="cell l2" />
+  <rect x="544" y="80" class="cell l4" />
+  <rect x="544" y="96" class="cell l1" />
+  <rect x="560" y="0" class="cell l3" />
+  <rect x="560" y="16" class="cell l1" />
+  <rect x="560" y="32" class="cell l1" />
+  <rect x="560" y="48" class="cell l2" />
+  <rect x="560" y="64" class="cell l1" />
+  <rect x="560" y="80" class="cell l1" />
+  <rect x="560" y="96" class="cell l3" />
+  <rect x="576" y="0" class="cell l0" />
+  <rect x="576" y="16" class="cell l2" />
+  <rect x="576" y="32" class="cell l4" />
+  <rect x="576" y="48" class="cell l4" />
+  <rect x="576" y="64" class="cell l0" />
+  <rect x="576" y="80" class="cell l1" />
+  <rect x="576" y="96" class="cell l1" />
+  <rect x="592" y="0" class="cell l4" />
+  <rect x="592" y="16" class="cell l3" />
+  <rect x="592" y="32" class="cell l3" />
+  <rect x="592" y="48" class="cell l1" />
+  <rect x="592" y="64" class="cell l0" />
+  <rect x="592" y="80" class="cell l3" />
+  <rect x="592" y="96" class="cell l3" />
+  <rect x="608" y="0" class="cell l2" />
+  <rect x="608" y="16" class="cell l4" />
+  <rect x="608" y="32" class="cell l2" />
+  <rect x="608" y="48" class="cell l0" />
+  <rect x="608" y="64" class="cell l3" />
+  <rect x="608" y="80" class="cell l1" />
+  <rect x="608" y="96" class="cell l2" />
+  <rect x="624" y="0" class="cell l4" />
+  <rect x="624" y="16" class="cell l0" />
+  <rect x="624" y="32" class="cell l0" />
+  <rect x="624" y="48" class="cell l0" />
+  <rect x="624" y="64" class="cell l2" />
+  <rect x="624" y="80" class="cell l1" />
+  <rect x="624" y="96" class="cell l2" />
+  <rect x="640" y="0" class="cell l3" />
+  <rect x="640" y="16" class="cell l1" />
+  <rect x="640" y="32" class="cell l2" />
+  <rect x="640" y="48" class="cell l1" />
+  <rect x="640" y="64" class="cell l2" />
+  <rect x="640" y="80" class="cell l4" />
+  <rect x="640" y="96" class="cell l3" />
+  <rect x="656" y="0" class="cell l0" />
+  <rect x="656" y="16" class="cell l1" />
+  <rect x="656" y="32" class="cell l1" />
+  <rect x="656" y="48" class="cell l0" />
+  <rect x="656" y="64" class="cell l3" />
+  <rect x="656" y="80" class="cell l2" />
+  <rect x="656" y="96" class="cell l1" />
+  <rect x="672" y="0" class="cell l3" />
+  <rect x="672" y="16" class="cell l2" />
+  <rect x="672" y="32" class="cell l1" />
+  <rect x="672" y="48" class="cell l0" />
+  <rect x="672" y="64" class="cell l0" />
+  <rect x="672" y="80" class="cell l3" />
+  <rect x="672" y="96" class="cell l4" />
+  <rect x="688" y="0" class="cell l2" />
+  <rect x="688" y="16" class="cell l3" />
+  <rect x="688" y="32" class="cell l2" />
+  <rect x="688" y="48" class="cell l0" />
+  <rect x="688" y="64" class="cell l0" />
+  <rect x="688" y="80" class="cell l1" />
+  <rect x="688" y="96" class="cell l3" />
+  <rect x="704" y="0" class="cell l3" />
+  <rect x="704" y="16" class="cell l3" />
+  <rect x="704" y="32" class="cell l3" />
+  <rect x="704" y="48" class="cell l1" />
+  <rect x="704" y="64" class="cell l1" />
+  <rect x="704" y="80" class="cell l0" />
+  <rect x="704" y="96" class="cell l3" />
+  <rect x="720" y="0" class="cell l3" />
+  <rect x="720" y="16" class="cell l1" />
+  <rect x="720" y="32" class="cell l2" />
+  <rect x="720" y="48" class="cell l0" />
+  <rect x="720" y="64" class="cell l4" />
+  <rect x="720" y="80" class="cell l3" />
+  <rect x="720" y="96" class="cell l4" />
+  <rect x="736" y="0" class="cell l3" />
+  <rect x="736" y="16" class="cell l3" />
+  <rect x="736" y="32" class="cell l0" />
+  <rect x="736" y="48" class="cell l3" />
+  <rect x="736" y="64" class="cell l1" />
+  <rect x="736" y="80" class="cell l4" />
+  <rect x="736" y="96" class="cell l3" />
+  <rect x="752" y="0" class="cell l3" />
+  <rect x="752" y="16" class="cell l3" />
+  <rect x="752" y="32" class="cell l1" />
+  <rect x="752" y="48" class="cell l3" />
+  <rect x="752" y="64" class="cell l0" />
+  <rect x="752" y="80" class="cell l3" />
+  <rect x="752" y="96" class="cell l3" />
+  <rect x="768" y="0" class="cell l1" />
+  <rect x="768" y="16" class="cell l3" />
+  <rect x="768" y="32" class="cell l2" />
+  <rect x="768" y="48" class="cell l1" />
+  <rect x="768" y="64" class="cell l3" />
+  <rect x="768" y="80" class="cell l1" />
+  <rect x="768" y="96" class="cell l0" />
+  <rect x="784" y="0" class="cell l0" />
+  <rect x="784" y="16" class="cell l1" />
+  <rect x="784" y="32" class="cell l3" />
+  <rect x="784" y="48" class="cell l4" />
+  <rect x="784" y="64" class="cell l1" />
+  <rect x="784" y="80" class="cell l2" />
+  <rect x="784" y="96" class="cell l1" />
+  <rect x="800" y="0" class="cell l4" />
+  <rect x="800" y="16" class="cell l2" />
+  <rect x="800" y="32" class="cell l4" />
+  <rect x="800" y="48" class="cell l0" />
+  <rect x="800" y="64" class="cell l4" />
+  <rect x="800" y="80" class="cell l0" />
+  <rect x="800" y="96" class="cell l4" />
+  <rect x="816" y="0" class="cell l1" />
+  <rect x="816" y="16" class="cell l0" />
+  <rect x="816" y="32" class="cell l1" />
+  <rect x="816" y="48" class="cell l3" />
+  <rect x="816" y="64" class="cell l1" />
+  <rect x="816" y="80" class="cell l2" />
+  <rect x="816" y="96" class="cell l2" />
+  <rect x="832" y="0" class="cell l1" />
+  <rect x="832" y="16" class="cell l2" />
+  <rect x="832" y="32" class="cell l1" />
+  <rect x="832" y="48" class="cell l3" />
+  <rect x="832" y="64" class="cell l0" />
+  <rect x="832" y="80" class="cell l4" />
+  <rect x="832" y="96" class="cell l2" />
+  <circle cx="150" cy="48" r="4" class="bonus-food" style="transform-origin: 150px 48px; animation: pulseBonus 2s infinite ease-in-out;" />
+  <circle cx="320" cy="80" r="4" class="bonus-food" style="transform-origin: 320px 80px; animation: pulseBonus 2s infinite ease-in-out;" />
+  <circle cx="510" cy="32" r="4" class="bonus-food" style="transform-origin: 510px 32px; animation: pulseBonus 2s infinite ease-in-out;" />
+  <circle cx="680" cy="96" r="4" class="bonus-food" style="transform-origin: 680px 96px; animation: pulseBonus 2s infinite ease-in-out;" />
+  <circle cx="810" cy="48" r="4" class="bonus-food" style="transform-origin: 810px 48px; animation: pulseBonus 2s infinite ease-in-out;" />
+
+      <!-- Snake Slithering Animation -->
+      <g style="animation: slitherBoard 24s ease-in-out infinite;">
+        <!-- Tail segments -->
+        <rect x="-42" y="1" width="9" height="9" rx="2" fill="#7e22ce" opacity="0.6" />
+        <rect x="-31" y="0.5" width="10" height="10" rx="2.5" fill="url(#snkBody)" opacity="0.75" />
+        <rect x="-20" y="0" width="11" height="11" rx="3" fill="url(#snkBody)" opacity="0.9" />
+        <rect x="-9" y="-0.5" width="12" height="12" rx="3.5" fill="url(#snkBody)" />
+        
+        <!-- Head -->
+        <rect x="3" y="-1" width="13" height="13" rx="4" fill="url(#snkHead)" filter="drop-shadow(0 0 6px #c084fc)" />
+        
+        <!-- Eyes -->
+        <circle cx="11" cy="2.5" r="1.8" fill="#ffffff" />
+        <circle cx="11" cy="8.5" r="1.8" fill="#ffffff" />
+        <circle cx="12" cy="2.5" r="1" fill="#0b0f19" />
+        <circle cx="12" cy="8.5" r="1" fill="#0b0f19" />
+        
+        <!-- Tongue -->
+        <polygon points="16,5.5 21,4 19,5.5 21,7" fill="#ef4444" />
+      </g>
+    
+</g>
+
+      <g transform="translate(24, 178)">
+        <text x="0" y="0" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="11" font-weight="500">
+          🐍 Jogo da Cobrinha devorando o histórico completo de contribuições de Américo Mabunda (52 semanas)
+        </text>
+        <text x="848" y="0" text-anchor="end" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="11" font-weight="600">
+          100% Ativo • 2022 - 2026 ⚡
+        </text>
+      </g>
+    
+</svg>
